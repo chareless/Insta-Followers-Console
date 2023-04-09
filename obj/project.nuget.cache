@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0xNUa8pRdqaZ2V70CzHCgEZawwGuQ5Z26p6js5x6Rioz9BwbCqEyElKonv3mEj1p+HC2RrMghBGhcC5ySLZ7g==",
+  "success": true,
+  "projectFilePath": "D:\\Dosyalar\\Projelerim\\Geliştirdiğim Uygulamalar\\InstagramFollowers\\InstagramFollowersControl\\InstagramFollowersControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deniz\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
